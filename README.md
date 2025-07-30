@@ -16,4 +16,9 @@ Explora mis proyectos personales, en C#, Blazor y servidores SQL.
 </p>
 
 ---
+<div align="center" style="background-color:#111111; border:1px solid #333333; border-radius:8px; padding:15px; color:#CCCCCC;">
+  <h3>About Me</h3>
+  <p>I’m <strong>swlarot</strong>, a dedicated software developer with a focus on building impactful, clean and modern applications.</p>
+  <p>I work with <code>C++</code>, <code>C#</code>, <code>Blazor</code>, <code>React</code>, and databases like <code>SQL Server</code> and <code>PostgreSQL</code>.</p>
+</div>
 
