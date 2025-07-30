@@ -45,3 +45,14 @@ Always exploring new ideas, frameworks, and best practices in modern software en
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 </p>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Keep+creating%2C+keep+building.;%E2%9C%A8+Happy+Coding+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/swlarot/swlarot/blob/main/assets/banner-swlarot.png" width="400" alt="swlarot signature" />
+</p>
+
