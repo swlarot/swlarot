@@ -22,3 +22,9 @@ Explora mis proyectos personales, en C#, Blazor y servidores SQL.
   <p>I work with <code>C++</code>, <code>C#</code>, <code>Blazor</code>, <code>React</code>, and databases like <code>SQL Server</code> and <code>PostgreSQL</code>.</p>
 </div>
 
+I’m `swlarot`, a dedicated software developer with a strong focus on personal and technical growth through self-driven projects.  
+
+I enjoy working with clean architectures, hybrid frontends (Blazor + React), and crafting custom experiences with both backend logic and UI design.  
+Currently building a personal portfolio and evolving my skills in enterprise-level programming and full-stack development.
+
+Always exploring new ideas, frameworks, and best practices in modern software engineering.
