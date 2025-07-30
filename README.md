@@ -30,7 +30,9 @@ Currently building a personal portfolio and evolving my skills in enterprise-lev
 Always exploring new ideas, frameworks, and best practices in modern software engineering.
 
 
-## 🛠️ Tech Stack & Tools
+
+<div align="center" style="background-color:#111111; border:1px solid #333333; border-radius:8px; padding:15px; color:#CCCCCC;">
+<h3>🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
   <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/></a>
@@ -40,4 +42,4 @@ Always exploring new ideas, frameworks, and best practices in modern software en
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 </p>
-
+</div>
