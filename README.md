@@ -7,7 +7,7 @@
 <p align="center">
 ⚫ Welcome to my GitHub ⚫ <br/>
 Here you'll find personal coding, undead projects and experiments in C++, .NET and React. <br/><br/>
- ¡Bienvenid@ a mi guarida de código! <br/>
+ ¡Bienvenid@ a mi guarida de código ! <br/>
 Explora mis proyectos personales, en C#, Blazor y servidores SQL.
 </p>
 
