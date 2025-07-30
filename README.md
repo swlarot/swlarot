@@ -23,7 +23,6 @@ Explora mis proyectos personales, en C#, Blazor y servidores SQL.
 </div>
 
 
-I’m `swlarot`, a dedicated software developer with a strong focus on personal and technical growth through self-driven projects.  
 
 I enjoy working with clean architectures, hybrid frontends (Blazor + React), and crafting custom experiences with both backend logic and UI design.  
 Currently building a personal portfolio and evolving my skills in enterprise-level programming and full-stack development.
