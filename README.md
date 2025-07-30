@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/swlarot/swlarot/blob/main/assets/BANNER-GIHUB.png" alt="swlarot banner" style="max-width: 100%;" />
+  <img src="https://github.com/swlarot/swlarot/blob/main/BANNER-GIHUB.png" alt="swlarot banner" style="max-width: 100%;" />
 </p>
+
 
 <h1 align="center">🕸️ BIENVENID@ A LAS SOMBRAS DE <span style="color:#b30000">SWLAROT</span> 🕸️</h1>
 <h3 align="center">
