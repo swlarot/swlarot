@@ -16,6 +16,11 @@ Explora mis proyectos personales, en C#, Blazor y servidores SQL.
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/Y3pWDz3HfMzNk/giphy.gif" width="300" alt="Snake Animation" />
+</p>
+
+
 <div align="center" style="background-color:#111111; border:1px solid #333333; border-radius:8px; padding:15px; color:#CCCCCC;">
   <h3>About Me</h3>
   <p>I’m <strong>swlarot</strong>, a dedicated software developer with a focus on building impactful, clean and modern applications.</p>
