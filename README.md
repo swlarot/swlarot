@@ -1,4 +1,4 @@
-# Vorluno
+# José Luis González Montenegro
 
 **Software, built with intent.** — a one-founder software studio in Panamá, shipping in English worldwide.
 
