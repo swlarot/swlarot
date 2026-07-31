@@ -1,33 +1,13 @@
-# José Luis González Montenegro
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/system-map-dark.svg">
+  <img src="assets/system-map-light.svg" alt="Personal system map of José Luis González, drawn as a metro map. Thematic lines: S (multi-tenant SaaS), M (money and Panamanian law), D (design engineering), T (open-source agent tooling). Fare zones: founder (Vorluno), day job (enterprise), clients and partners. The downtown inset details niiko, the flagship in production: module line (Miira, CRM, Kiipu, Ciita, Accounting, Inbox, Billing, plus Notes and Niima in design) over a backbone line (identity, data fabric with RLS, event bus, AI layer, entitlements, crypto/GDPR, messaging) — 93 migrations, 29 packages, 291 test files, ADR N001 to N112.">
+</picture>
 
-**Software, built with intent.** — a one-founder software studio in Panamá, shipping in English worldwide.
+**Lines are what I build. Zones are who it's for.** Every crossing on the map is a fact.
 
-I'm José, the engineer behind Vorluno. The person who scopes your product is the person who writes it —
-that's not a slogan, it's the entire structure of the studio.
+- **niiko** — the flagship: multi-tenant SaaS in production, 10 modules over one backbone → [niiko.org](https://niiko.org)
+- **Open source** — [agora-mcp](https://github.com/vorluno/agora-mcp) · [batuta-mcp](https://github.com/vorluno/batuta-mcp) · [mcp-s](https://github.com/vorluno/mcp-s) — agent tooling on the MCP registry, MIT
+- **The studio** — [vorluno.dev](https://vorluno.dev)
+- **Contact** — contacto@vorluno.dev
 
-## What I'm building
-
-- **[niiko](https://niiko.org)** — the platform I bet the company on: an AI agent qualifying real leads over
-  WhatsApp, a CRM that fills itself in from the work, one client record shared by every module. In production,
-  used daily to run Vorluno itself. [Shipped in public →](https://vorluno.dev/changelog)
-- **Client software** — product engineering, AI-native features, WhatsApp/Meta integrations, design engineering
-  and financial backends. [Six things done extremely well →](https://vorluno.dev/services)
-
-## Open source
-
-Tools built for my own multi-agent coding workflows:
-
-- **[agora-mcp](https://github.com/vorluno/agora-mcp)** — shared per-repo space for parallel Claude Code sessions
-- **[batuta-mcp](https://github.com/vorluno/batuta-mcp)** — task splitting with disjoint file boundaries + one git worktree per plan
-- **[mcp-s](https://github.com/vorluno/mcp-s)** — Vorluno's family of MCP servers for AI coding agents
-
-## Stack
-
-TypeScript (Next.js, NestJS) · Python (FastAPI) · PostgreSQL · the occasional ASCII water simulation
-[on a plain 2D canvas](https://vorluno.dev/notes/ascii-water-2d-canvas).
-
-## Elsewhere
-
-[vorluno.dev](https://vorluno.dev) · [niiko.org](https://niiko.org) · [Engineering notes](https://vorluno.dev/notes) · contacto@vorluno.dev
-
-`// shipped, not staged.`
+<sub>The map is a hand-built SVG (no widgets), generated from a script and updated with the network. Panamá · UTC-5.</sub>
