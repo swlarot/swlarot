@@ -6,8 +6,7 @@
 **Lines are what I build. Zones are who it's for.** Every crossing on the map is a fact.
 
 - **niiko** — the flagship: multi-tenant SaaS in production, 10 modules over one backbone → [niiko.org](https://niiko.org)
-- **Open source** — [agora-mcp](https://github.com/vorluno/agora-mcp) · [batuta-mcp](https://github.com/vorluno/batuta-mcp) · [mcp-s](https://github.com/vorluno/mcp-s) — agent tooling on the MCP registry, Apache-2.0
-- **Extracted from production** — [whatsapp-cloud-client](https://github.com/vorluno/whatsapp-cloud-client) · [ratchet](https://github.com/vorluno/ratchet) · [niiko-events](https://github.com/vorluno/niiko-events) — pulled out of niiko, not written to be published
+- **Open source** — [whatsapp-cloud-client](https://github.com/vorluno/whatsapp-cloud-client) · [ratchet](https://github.com/vorluno/ratchet) · [niiko-events](https://github.com/vorluno/niiko-events) — pulled out of niiko, not written to be published. Apache-2.0
 - **The studio** — [vorluno.dev](https://vorluno.dev)
 - **Contact** — contacto@vorluno.dev
 
